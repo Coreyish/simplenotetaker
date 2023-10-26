@@ -1,52 +1,64 @@
-# Simple Note Taker 
+# Simple note taker 
 
-  A note taker app that uses node.js and express.js to set up a server host notes and has the abitily to write new notes
+  [![License: MIT @2023]1]
 
+  [A deployed version can be viewed here.](N/A)
   
 ---
 ## Contents
 
-  1. [About](#about)
-      1. [User Story](#user%20story)
-      2. [Acceptance criteria](#acceptance%20criteria)
-      3. [Visuals](#visuals)
-      4. [Build](#build)
-  2. [Installation](#installation)
-  3. [License](#license)
-  4. [Contributing](#contributing)
-  5. [Authors and acknowledgment](#authors%20and%20acknowledgment)
-  6. [Contact](#contact)
+1. [About](#about)
+    1. [User Story](#user%20story)
+    2. [Acceptance criteria](#acceptance%20criteria)
+    3. [Visuals](#visuals)
+    4. [Build](#build)
+2. [Installation](#installation)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Resources and help](#Resources%20help)
 
 ---
 ## About
 
-    A note taker app that uses node.js and express.js to set up a server host notes and has the abitily to write new notes
-
+This project uses nodejs and express.js to locally host a browser-based note taking applicaiton. This project can be used by anyone intuitively and has an easy to understand functionality. Simply title the note, add text, click save, and you're done! There is a handy delete button that removes completed ideas.
 ---
 
-  ### User Story
-  
-  
-AS A small business owner
+## User Story
+  AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
- 
+---
+
+## Acceptance Criteria
+  
+  
 ---
 ## Visuals:
+
+  ![]()
 
 ---
 
 ## Installation:
-  
 
-* For installation onto local machine, clone provided repository.
+* To clone the repo:
+  
+      git clone simplenotetaker
+      
 * Use `npm install` to install dependencies.
 * Use `npm run dev` to initiate the server in your terminal.
-* Visit `http://localhost:3000/` in your browser. Default provided port is 3000.
+* Visit `http://localhost:/'your-port'` in your browser. Default provided port is 'your port'.
+
+  
+---
 
 ## License
----  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  License used for this project - 
+  MIT 2023
+  * For more information on license types, please reference this website
+  for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
 
@@ -63,12 +75,19 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
   Following a code review, your feature will be merged.
 
 
-   ## Authors and Acknowledgments
-  Built by [Corey obiri](https://coreyish.github.io/coreyish/).
+---
+
+## Tests:
+no test for this program as of yet 
 
 ---
 
-  ## Contact Information:
-  * GitHub Username: [coreyish](https://github.com/coreyish
+## Resources and Help
+  
 
+---
+
+## Contact Information:
+* GitHub Username: Coreyish
+* GitHub Email: corey.obiri@gmail.com
   
