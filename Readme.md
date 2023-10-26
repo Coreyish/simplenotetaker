@@ -63,12 +63,14 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
   Following a code review, your feature will be merged.
 
 
-   ## Authors and Acknowledgments
-  Built by [Corey obiri](https://coreyish.github.io/coreyish/).
+   ## Resources and Help
+  https://www.youtube.com/watch?v=bssX9Ot9YOI&t=3562s
+
+  file struture and help/ guidence with features and functions 
 
 ---
 
   ## Contact Information:
-  * GitHub Username: [coreyish](https://github.com/coreyish
+  * GitHub Username: [coreyish](https://github.com/coreyish0
 
   
